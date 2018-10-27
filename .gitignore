@@ -1,1 +1,9 @@
 reactApp/node_modules
+djangoTemplateWithAddedModule/addedModule/*
+djangoTemplateWithAddedModule/djangoTemplateWithAddedModule/*
+djangoTemplateWithAddedModule/utils/__pycache__/*
+include/
+lib/*
+local/*
+share/*
+
